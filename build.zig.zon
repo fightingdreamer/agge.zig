@@ -1,0 +1,13 @@
+.{
+    .name = "agge",
+    .version = "0.0.0",
+    .dependencies = .{
+        .upstream = .{
+            .url = "https://github.com/tyoma/agge/archive/c2f050aef36c7b4f55d6b55bf81ffaaf7d56be28.tar.gz",
+            .hash = "1220f7b342ac35b74fc2b7e7fe0245c4298c21d1cda5727728ed8c71892bd8ad25f9",
+        },
+    },
+    .paths = .{
+        "",
+    },
+}
